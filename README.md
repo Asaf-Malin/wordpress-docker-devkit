@@ -4,7 +4,7 @@ This repository contains the necessary Dockerfile and Docker Compose configurati
 
 The setup includes the official WordPress Docker image, enhanced with Xdebug and WP-CLI for debugging and command-line operations, respectively. The Docker Compose configuration spins up two services: WordPress and MySQL.
 
-To understand how to use this setup for your local WordPress development, please refer to the comprehensive [blog post](https://wpml.org/?p=1379666) that walks you through each step.
+To understand how to use this setup for your local WordPress development, please refer to the comprehensive [blog post](https://wpml.org/tutorials/2023/06/local-wordpress-development-with-docker-phpstorm-xdebug/) that walks you through each step.
 
 Feel free to pull this code, try it out, and suggest improvements!
 
